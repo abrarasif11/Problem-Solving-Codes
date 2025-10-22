@@ -1,17 +1,20 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
- 
-int main(){
+
+int main()
+{
     int t;
     cin >> t;
-    while(t--){
+    while (t--)
+    {
         string s;
         cin >> s;
-        reverse(s.begin(),s.end());
-        for(int i = 0; i<s.size();i++){
-            cout<< s[i] <<" ";
+        reverse(s.begin(), s.end());
+        for (int i = 0; i < s.size(); i++)
+        {
+            cout << s[i] << " ";
         }
-        cout<<endl;
+        cout << endl;
     }
     return 0;
 }
