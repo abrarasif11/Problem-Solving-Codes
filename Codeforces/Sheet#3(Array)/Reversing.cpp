@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int a,i;
+cin >> a;
+int x[a];
+for(i = 0; i < a; i++){
+    cin >> x[i];
+}
+for(i = a-1; i >= 0; i--){
+    cout<<x[i]<<" ";
+}
+return 0;
+}
