@@ -20,9 +20,9 @@
 
 This repository contains my **C++ solutions** to a variety of competitive programming problems from:
 
-✅ [**Codeforces**](https://codeforces.com/profile/fahimabrarasif)  
-✅ [**Beecrowd**](https://judge.beecrowd.com/en/profile/601957)  
-✅ **LeetCode** (coming soon 🚧)
+ [**Codeforces**](https://codeforces.com/profile/fahimabrarasif)  
+ [**Beecrowd**](https://judge.beecrowd.com/en/profile/601957)  
+ **LeetCode** (coming soon 🚧)
 
 Each problem is solved with:
 - 🧠 **Optimized logic**
@@ -64,9 +64,6 @@ Each problem is solved with:
   </a>
   <a href="https://codeforces.com/profile/fahimabrarasif">
     <img src="https://img.shields.io/badge/Codeforces-fahimabrarasif-orange?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://judge.beecrowd.com/en/profile/601957">
-    <img src="https://img.shields.io/badge/Beecrowd-601957-green?style=for-the-badge" />
   </a>
 </p>
 
