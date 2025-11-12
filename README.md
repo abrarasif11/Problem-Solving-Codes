@@ -53,6 +53,26 @@ Each problem is solved with:
 
 ---
 
-## 📘 Repository Structure
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/abrarasif11">
+    <img src="https://img.shields.io/badge/GitHub-abrarasif11-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://codeforces.com/profile/fahimabrarasif">
+    <img src="https://img.shields.io/badge/Codeforces-fahimabrarasif-orange?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/601957">
+    <img src="https://img.shields.io/badge/Beecrowd-601957-green?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you find this repository helpful, don't forget to star it! ⭐</p>
+
 
 
